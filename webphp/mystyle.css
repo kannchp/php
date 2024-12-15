@@ -1,0 +1,26 @@
+body {
+    background: #FFEBE7;
+    color: #7F95D1;
+    font-style: normal;
+    font-family: Cordia New;
+    font-size: 18pt;
+    text-align: center;
+}
+.img {
+    width: 240px;
+}
+
+.Profile {    
+    font-size: 20pt;
+}
+
+.titlee {   color:  #FFEBE7; 
+            background-color: #FFC0BE;
+}
+
+.Down{  color:  #FFEBE7; 
+        background-color: #FF82A9;
+        font-size: 16pt;
+        text-align: left;
+        
+}
