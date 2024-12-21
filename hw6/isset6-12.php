@@ -19,14 +19,15 @@
             echo "</tr>";
         }
         echo "</table>";
+        echo "<a href='isset6-12.php'>Back</a>";
     }
     else{
 ?>
-<a href='lab6-12.php'> Back </a>
+
         <html>
         <head><title>การสร้างฟอร์มในการรับค่าเพื่อการตาราง</title></head>
         <body>
-        <form method="post" action="lab6-12cal.php">
+        <form method="post" action="isset6-12.php">
         <table border="1" align="center" width="400">
             <tr>
             <td colspan="2" align="center">
