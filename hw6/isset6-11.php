@@ -22,14 +22,14 @@
         elseif ($total >= 50) echo "Result Grade : D<br>";
         else echo "Result Grade : F<br>";
         echo "<br>";
-        echo "<a href='lab6-11.php'> <big>Back </big></a>";
+        echo "<a href='isset6-11.php'> <big>Back </big></a>";
     }
     else{
 ?>
         <html>
         <head><title>การสร้างฟอร์มในการรับค่าเพื่อคำนวณเกรด</title></head>
         <body>
-        <form method="get" action="lab6-11cal.php">
+        <form method="get" action="isset6-11.php">
         <table border="1" align="center" width="500">
             <tr>
                 <td colspan="2" align="center">
